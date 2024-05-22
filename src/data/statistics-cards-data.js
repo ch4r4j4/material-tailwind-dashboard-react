@@ -14,7 +14,7 @@ export const statisticsCardsData = [
     footer: {
       color: "text-green-500",
       value: "+55%",
-      label: "than last week",
+      label: "than last semana",
     },
   },
   {
